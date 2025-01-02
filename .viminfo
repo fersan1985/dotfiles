@@ -21,9 +21,9 @@ $" "
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1735824978,,"wq"
+|2,0,1735829134,,"wq"
 :q!
-|2,0,1733407161,,"q!"
+|2,0,1735829035,,"q!"
 :x
 |2,0,1731563763,,"x"
 :X
@@ -82,234 +82,250 @@ $" "
 	### AWS PROFILE ###
 |3,0,9,1,1,0,1731298578,"### AWS PROFILE ###"
 ""-	CHAR	0
-	
-|3,1,36,0,1,0,1731556517,""
+	k
+|3,1,36,0,1,0,1735829127,"k"
 
 # File marks:
-'0  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
-|4,48,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
-'1  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,49,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
-'2  5  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,50,5,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
-'3  3  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,51,3,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
-'4  1  0  ~/.ssh/config
-|4,52,1,0,1733407161,"~/.ssh/config"
-'5  4  41  ~/.ssh/config
-|4,53,4,41,1733407089,"~/.ssh/config"
-'6  4  41  ~/.ssh/config
-|4,54,4,41,1733407089,"~/.ssh/config"
-'7  19  10  ~/.config/kitty/kitty.conf
-|4,55,19,10,1732843316,"~/.config/kitty/kitty.conf"
-'8  8  0  ~/Documents/go/fortheloveofgo/hello.go
-|4,56,8,0,1731959004,"~/Documents/go/fortheloveofgo/hello.go"
-'9  11  0  ~/.zshrc
-|4,57,11,0,1731958807,"~/.zshrc"
+'0  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,48,1,0,1735829134,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+'1  2  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,49,2,0,1735829059,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+'2  2  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,50,2,0,1735829059,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+'3  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,51,1,0,1735829035,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+'4  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,52,1,0,1735829035,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+'5  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,53,1,0,1735829035,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+'6  5  33  ~/.gitconfig
+|4,54,5,33,1735828414,"~/.gitconfig"
+'7  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,55,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+'8  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,56,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+'9  5  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,57,5,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,39,1,0,1735829134,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+-'  2  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,39,2,0,1735829059,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+-'  2  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,39,2,0,1735829059,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+-'  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,39,1,0,1735829041,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+-'  1  0  ~/dotfiles/.git/rebase-merge/git-rebase-todo
+|4,39,1,0,1735829035,"~/dotfiles/.git/rebase-merge/git-rebase-todo"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1735828414,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1735828396,"~/.gitconfig"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
+-'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
+|4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
 -'  1  14  ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
 |4,39,1,14,1735824978,"~/.local/share/yadm/repo.git/COMMIT_EDITMSG"
 -'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
 |4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 -'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
 |4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  3  53  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,3,53,1733455324,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
 |4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
 |4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
--'  5  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,39,5,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
--'  3  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,39,3,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
--'  5  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,39,5,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
--'  3  86  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,39,3,86,1733453484,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,39,1,0,1733453458,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
-|4,39,1,0,1733453458,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407161,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  4  41  ~/.ssh/config
-|4,39,4,41,1733407089,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1733407080,"~/.ssh/config"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  19  10  ~/.config/kitty/kitty.conf
-|4,39,19,10,1732843316,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
--'  1  0  ~/.config/kitty/kitty.conf
-|4,39,1,0,1732843276,"~/.config/kitty/kitty.conf"
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG
+|4,39,1,0,1733455280,"~/Documents/go/love_go/ForTheLoveOfGo/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/dotfiles/.git/rebase-merge/git-rebase-todo
+	*	1735829133	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> ~/.gitconfig
+	*	1735828413	0
+	"	5	33
+	^	5	34
+	.	5	33
+	+	5	33
 
 > ~/.local/share/yadm/repo.git/COMMIT_EDITMSG
 	*	1735824977	0
