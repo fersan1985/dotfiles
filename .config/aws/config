@@ -1,0 +1,133 @@
+[profile xlabs-prod]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 815253839295
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile explorer-testnet-production]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 211125598298
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile explorer-mainnet-production]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 381491984245
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile explorer-mainnet-development]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 471112726923
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-sandbox]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 767397811953
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-nodes-mainnet]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 135957295140
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-new-prod]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 891377209774
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-operations]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 064525219715
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-nodes-testnet]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 186456938545
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xLABS]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 327695980436
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile relayer-development]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 339712764763
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-wormholescan-testnet-prod]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 698505565001
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile explorer-testnet-development]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 891377329990
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile relayer-production]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 590183967205
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
+
+
+[profile xlabs-dev]
+sso_region = us-east-2
+sso_start_url = https://xlabs-xyz.awsapps.com/start/#/
+sso_account_id = 581679387567
+sso_role_name = SSO_PS_ADMIN_ACCESS
+region = us-east-2
+output = json
